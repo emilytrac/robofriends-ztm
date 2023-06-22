@@ -1,4 +1,4 @@
-Mini react project for ZTM course - bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Mini React.js project for ZTM course - bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### `npm start`
 
